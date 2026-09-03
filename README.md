@@ -13,6 +13,7 @@ documentation portability, and source-code modernization assessment.
 | [Jira Markdown KB](https://github.com/andres9125/jira-markdown-kb) | Portable Markdown exports from Jira Cloud, with optional PDF output. | Python, Jira Cloud, Markdown |
 | [GX Migration Toolbox](https://github.com/andres9125/gx-migration-toolbox) | Read-only inventory of GeneXus-related source trees for modernization planning. | Python, static analysis, GeneXus |
 | [Graphic Toolkit](https://github.com/andres9125/graphic-toolkit) | Reproducible favicon, brand, and social-media asset packs. | Python, Pillow, image generation |
+| [Avro Partition Writer](https://github.com/andres9125/avro-partition-writer) | Size-bounded, independently readable AVRO OCF export parts. | .NET 8, Apache Avro, streaming |
 
 ## How I build in the open
 
