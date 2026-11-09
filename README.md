@@ -1,31 +1,17 @@
-# Open-source developer tools and modernization workflows
+# Andrés Marín Sánchez
 
-I build focused, well-documented tools that make everyday software delivery
-more predictable: local development environments, DevOps automation,
-documentation portability, and source-code modernization assessment.
+**Applied AI · API integrations · Azure automation**
 
-## Featured projects
+I build workflows that move data between systems and make exceptions easy to review. My background is in application modernization, Azure DevOps automation, and data migration.
 
-| Project | What it helps with | Main technologies |
-| --- | --- | --- |
-| [Docker Development Stacks](https://github.com/andres9125/dev-docker-stacks) | Reusable local environments with Docker Compose. | Docker, .NET, SQL Server, MySQL, Tomcat |
-| [Azure DevOps Board as Code](https://github.com/andres9125/azure-devops-board-as-code) | Declarative setup for Azure DevOps teams, work item types, and boards. | PowerShell, Azure DevOps |
-| [Jira Markdown KB](https://github.com/andres9125/jira-markdown-kb) | Portable Markdown exports from Jira Cloud, with optional PDF output. | Python, Jira Cloud, Markdown |
-| [GX Migration Toolbox](https://github.com/andres9125/gx-migration-toolbox) | Read-only inventory of GeneXus-related source trees for modernization planning. | Python, static analysis, GeneXus |
-| [Graphic Toolkit](https://github.com/andres9125/graphic-toolkit) | Reproducible favicon, brand, and social-media asset packs. | Python, Pillow, image generation |
-| [Avro Partition Writer](https://github.com/andres9125/avro-partition-writer) | Size-bounded, independently readable AVRO OCF export parts. | .NET 8, Apache Avro, streaming |
+Based in Amsterdam · Open to full-time roles in the Netherlands · [LinkedIn](https://www.linkedin.com/in/amarin9125/)
 
-## How I build in the open
+## Selected work
 
-- Keep tools practical, small in scope, and safe to run locally.
-- Document the intended use, limitations, and contribution path in every
-  repository.
-- Use automated checks and pull requests for changes that reach the default
-  branch.
-- Publish only material that can be shared responsibly, without client data,
-  credentials, or internal implementation details.
-
-## Contributions
-
-Issues, ideas, and pull requests are welcome in each project repository.
-Please read its contributing and security guidance before submitting a change.
+| Project | What to look at |
+| --- | --- |
+| [Ledger Import Review](https://github.com/andres9125/ledger-import-review) | A runnable Python demo for reviewing a property-ledger import. Valid rows are separated from exceptions, and optional local AI suggestions remain subject to review. |
+| [Bilingual publishing workflow](https://www.eximus-software.com/en/case-studies/software-modernization/notion-publishing-reviewed-traceable-delivery) | I built the site and the integration from Notion to Vercel. The case study follows a content change through editorial approval, pull-request review, deployment, and verification in both languages. |
+| [Azure DevOps Board as Code](https://github.com/andres9125/azure-devops-board-as-code) | PowerShell automation for teams, work item settings, and board columns. Review the plan before applying changes. |
+| [Avro Partition Writer](https://github.com/andres9125/avro-partition-writer) | A .NET library that rotates batch exports at a configurable size threshold while keeping each Avro file independently readable. |
+| [GX Migration Toolbox](https://github.com/andres9125/gx-migration-toolbox) | A read-only Python scanner that inventories generated source and surfaces dependency signals before modernization. |
