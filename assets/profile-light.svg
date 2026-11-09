@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" role="img" aria-labelledby="title">
+  <title id="title">Andrés Marín Sánchez · Integrations, applied AI and Azure · Amsterdam, NL</title>
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#c7d9db" stroke-width="1" opacity=".48"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="247" rx="12" fill="#f2f7f8" stroke="#bcced2"/>
+  <rect x="624" y="24" width="312" height="200" rx="8" fill="#e5f0f0" stroke="#bed3d4"/>
+  <rect x="625" y="25" width="310" height="198" rx="7" fill="url(#grid)"/>
+  <path d="M644 176H916" stroke="#bed3d4"/>
+  <g fill="none" stroke="#67918e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M692 78H718L746 112H756"/>
+    <path d="M692 112H756"/>
+    <path d="M692 146H718L746 112"/>
+    <path d="M808 112H824L852 78H868"/>
+    <path d="M808 112H824L852 146H868"/>
+    <path d="M808 112H868" stroke="#006c63" stroke-width="2"/>
+  </g>
+  <g fill="#e5f0f0" stroke="#67918e">
+    <rect x="650" y="67" width="42" height="22" rx="4"/>
+    <rect x="650" y="101" width="42" height="22" rx="4"/>
+    <rect x="650" y="135" width="42" height="22" rx="4"/>
+    <rect x="868" y="67" width="42" height="22" rx="4"/>
+    <rect x="868" y="135" width="42" height="22" rx="4"/>
+  </g>
+  <rect x="868" y="101" width="42" height="22" rx="4" fill="#c9e2df" stroke="#006c63"/>
+  <path d="M659 75h22m-22 6h12m-12 28h22m-22 6h12m-12 28h22m-22 6h12m207-74h22m-22 6h12m-12 62h22m-22 6h12" fill="none" stroke="#67918e" stroke-linecap="round"/>
+  <path d="M877 109h22m-22 6h12" fill="none" stroke="#006c63" stroke-linecap="round"/>
+  <rect x="756" y="88" width="52" height="48" rx="8" fill="#c9e2df" stroke="#006c63"/>
+  <path d="M772 112l7 7 13-14" fill="none" stroke="#006c63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#48626c" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1">
+    <text x="650" y="201">INGEST</text>
+    <text x="780" y="201" text-anchor="middle" fill="#006c63">REVIEW</text>
+    <text x="910" y="201" text-anchor="end">DELIVER</text>
+  </g>
+  <path d="M40 48h20" stroke="#006c63" stroke-width="2" stroke-linecap="round"/>
+  <text x="72" y="53" fill="#006c63" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" letter-spacing="1.8">ENGINEERING PORTFOLIO</text>
+  <text x="40" y="117" fill="#182b34" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.4">Andrés Marín Sánchez</text>
+  <text x="42" y="159" fill="#354e59" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">Integrations · Applied AI · Azure</text>
+  <path d="M42 178H578" stroke="#bcced2"/>
+  <text x="42" y="205" fill="#48626c" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="1.8">AMSTERDAM, NL</text>
+</svg>
